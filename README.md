@@ -11,5 +11,5 @@ Install Dependencies:
 pip install -r requirements.txt
 ```
 
-![1]([Screenshot 2024-12-16 011201.png](https://github.com/Rikith-Devangam/Yelp/blob/main/Screenshot%202024-12-16%20011201.png))
+![Screenshot 2024-12-16 011201](https://github.com/user-attachments/assets/eadbfbcb-46cf-4fa5-8d39-d6e6c1160fd7)
 
