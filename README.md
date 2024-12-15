@@ -8,7 +8,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install Dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r Requirement.txt
 ```
 # Question 1 Get lowest local price
 1. Get name, address, open times, menu items, & prices for Village from Yelp API<br />
