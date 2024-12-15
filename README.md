@@ -29,11 +29,7 @@ pip install -r requirements.txt
 # Question 3 DISPLAY Village menu with predicted prices using ANY ML algo:
 7.1 Temp is < 45 deg. Fahrenheit (note API returns Kelvin, convert to F)
 7.2 It will snow or get moderate or heavy rain
-7.3 Village is busier than usual
->THEN
-Price should be more than lowest local price
->ELSE
-Price should be lowest local price
+7.3 Village is busier than usual > THEN Price should be more than lowest local price > ELSE Price should be lowest local price
 
 ## Output:-
 ![Screenshot 2024-12-16 011232](https://github.com/user-attachments/assets/d112a2a6-5687-4c13-84a4-fc9cbda11476)
