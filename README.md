@@ -10,3 +10,6 @@ Install Dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+![Alt Text](Screenshot 2024-12-16 011201.png)
+![Alt Text](Screenshot 2024-12-16 011218.png)
+![Alt Text](Screenshot 2024-12-16 011232.png)
